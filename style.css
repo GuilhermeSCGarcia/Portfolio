@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Henny+Penny&display=swap');
+
+
+html{
+    background-color: ;
+    margin: 0;
+    padding: 0;
+}
+.sobreMim{
+    padding: 2rem;
+    margin: 2rem;
+}
+.Aprendi{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#Titulo{
+    text-align: center;
+    padding: 3rem;
+    border-radius: 3px;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.Projetos{
+    padding-left: 100px;
+    padding-right: 100px;
+    text-decoration: none;
+}
+
+.Contato{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+footer{
+    box-sizing: border-box;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+header nav a:hover {
+    background-color: white;
+    color: violet;
+}
+
+header nav a:active{
+    background-color: greenyellow;
+}
+
+header nav a:visited{
+    background-color: tomato;
+}
+
+#Bonus{
+    padding: 2rem;
+    margin: 2rem;
+}
+
+main {
+    background-color: blck;
+}
